@@ -1,0 +1,2 @@
+# TheDecider-Aurora
+In my very first Computer science class, I was given a pretty simple project (if I remember it was to make a program that randomly assigned a chore to 1 of the 2 players). I instead got distracted and spent 10 hours of my time to create a hidden "AI" that only I knew how to access in my code. It is password protected. But, if you have access to the code, you can hack into it. The AI has other functions built into it. This simple distraction was what led me to discover the huge potential for creativity found within Computer Science.
